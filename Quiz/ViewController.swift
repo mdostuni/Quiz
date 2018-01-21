@@ -5,6 +5,7 @@
 //  Created by Madison D'Ostuni on 1/15/18.
 //  Copyright © 2018 Madison D'Ostuni. All rights reserved.
 //
+// High Point University
 
 import UIKit
 
